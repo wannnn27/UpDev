@@ -2,7 +2,7 @@
 
 Aplikasi berbasis web untuk mahasiswa yang menggabungkan manajemen tugas, pencatatan kuliah, pengelolaan keuangan, dan asisten AI dalam satu aplikasi.
 
-Fitur Utama
+Fitur Utama:
 
 Dashboard
 - Ringkasan tugas yang belum selesai
